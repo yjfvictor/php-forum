@@ -1,0 +1,28 @@
+# Compiled TypeScript files
+frontend/dist/
+*.js.map
+
+# Node modules (if any)
+node_modules/
+
+# Data directory (contains user credentials and forum threads)
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+

@@ -2,8 +2,8 @@
  * @file main.ts
  * @brief Main entry point for the forum frontend application
  * @details Initializes the application and sets up the main UI
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 import * as api from './api';

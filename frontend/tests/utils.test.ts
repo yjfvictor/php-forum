@@ -2,8 +2,8 @@
  * @file utils.test.ts
  * @brief Unit tests for utility functions
  * @details Tests date formatting and utility functions
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 import { formatDate } from '../src/utils';

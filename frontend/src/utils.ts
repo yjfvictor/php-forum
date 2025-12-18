@@ -2,8 +2,8 @@
  * @file utils.ts
  * @brief Utility functions for the forum frontend
  * @details Contains helper functions for date formatting and API communication
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 /**

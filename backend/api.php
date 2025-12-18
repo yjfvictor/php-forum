@@ -3,8 +3,8 @@
  * @file api.php
  * @brief Main API endpoint for the forum application
  * @details Handles all API requests including authentication, thread management, and user management
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 require_once __DIR__ . '/config.php';

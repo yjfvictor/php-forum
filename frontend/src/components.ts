@@ -2,8 +2,8 @@
  * @file components.ts
  * @brief UI components for the forum application
  * @details Contains functions to render various UI components
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 import * as api from './api';

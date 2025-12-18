@@ -2,8 +2,8 @@
  * @file api.ts
  * @brief API client for communicating with the backend
  * @details Handles all HTTP requests to the PHP backend API
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 /**

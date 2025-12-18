@@ -3,8 +3,8 @@
  * @file router.php
  * @brief Router script for PHP built-in development server
  * @details Handles routing for both backend and frontend files
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 $requestUri = $_SERVER['REQUEST_URI'];

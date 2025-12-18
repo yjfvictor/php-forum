@@ -3,8 +3,8 @@
  * @file index.php
  * @brief Main entry point for the forum frontend
  * @details Serves the HTML page for the forum application
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 require_once __DIR__ . '/config.php';

@@ -3,8 +3,8 @@
  * @file ApiTest.php
  * @brief Unit tests for the API endpoints
  * @details Tests all API functionality including authentication, threads, and user management
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 require_once __DIR__ . '/../config.php';

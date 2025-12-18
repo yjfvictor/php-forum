@@ -3,8 +3,8 @@
  * @file config.php
  * @brief Configuration file for the forum application
  * @details Contains constants and configuration settings for the forum backend
- * @date 2024-12-19T00:00:00Z
- * @author Forum System
+ * @date 2025-12-18
+ * @author Victor Yeh
  */
 
 /**
